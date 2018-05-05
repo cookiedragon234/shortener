@@ -3,6 +3,6 @@ View at https://goo.gl/pihgP2
 
 Shortens URLs with the google API
 
-Uses code from here: https://github.com/sebi/googl-php
+Simply an implementation of this repository: https://github.com/sebi/googl-php to help people use it
 
-Please remember to read LICENSE.md before using this code.
+Uses the GNU license
